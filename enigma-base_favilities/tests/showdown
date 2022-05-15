@@ -1,0 +1,12 @@
+create eg
+add rotor IV
+add rotor X
+add rotor I
+add rotor III
+add rotor VI
+add reflector ref
+add reflector C
+set plugboard AA AB CD DE
+encode SHOWDOWN
+quit
+
